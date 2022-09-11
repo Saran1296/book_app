@@ -1,0 +1,161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BookList component it should have the right snapshot 1`] = `
+<div>
+  <h3>
+    Welcome to my favourite book portal!
+  </h3>
+  <table
+    className="booklist-table"
+  >
+    <thead>
+      <tr>
+        <th>
+          SI.No
+        </th>
+        <th>
+          Book Name
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          1
+        </td>
+        <td
+          data-testid="1-React JS Book"
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "blue",
+              "cursor": "pointer",
+            }
+          }
+        >
+          React JS Book
+        </td>
+      </tr>
+      <tr>
+        <td>
+          2
+        </td>
+        <td
+          data-testid="2-Redux Book"
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "blue",
+              "cursor": "pointer",
+            }
+          }
+        >
+          Redux Book
+        </td>
+      </tr>
+      <tr>
+        <td>
+          3
+        </td>
+        <td
+          data-testid="3-Jest + React testing library"
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "blue",
+              "cursor": "pointer",
+            }
+          }
+        >
+          Jest + React testing library
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+  <hr />
+  <p>
+    Click on any book name to explore more!
+  </p>
+</div>
+`;
+
+exports[`BookList component should have the right snapshot 1`] = `
+<div>
+  <h3>
+    Welcome to my favourite book portal!
+  </h3>
+  <table
+    className="booklist-table"
+  >
+    <thead>
+      <tr>
+        <th>
+          SI.No
+        </th>
+        <th>
+          Book Name
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          1
+        </td>
+        <td
+          data-testid="1-React JS Book"
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "blue",
+              "cursor": "pointer",
+            }
+          }
+        >
+          React JS Book
+        </td>
+      </tr>
+      <tr>
+        <td>
+          2
+        </td>
+        <td
+          data-testid="2-Redux Book"
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "blue",
+              "cursor": "pointer",
+            }
+          }
+        >
+          Redux Book
+        </td>
+      </tr>
+      <tr>
+        <td>
+          3
+        </td>
+        <td
+          data-testid="3-Jest + React testing library"
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "blue",
+              "cursor": "pointer",
+            }
+          }
+        >
+          Jest + React testing library
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+  <hr />
+  <p>
+    Click on any book name to explore more!
+  </p>
+</div>
+`;
